@@ -1,0 +1,4 @@
+ 1 sachin 10000 binpur 1
+ 2 rick 200000 binpur 2
+ 3 subrata 200000 binpur 1
+ 3 rick 1000 binpur 2
